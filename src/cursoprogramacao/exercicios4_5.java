@@ -1,4 +1,4 @@
-package cursoprogamacao;
+package cursoprogramacao;
 import java.util.Scanner;
 
 public class exercicios4_5 {

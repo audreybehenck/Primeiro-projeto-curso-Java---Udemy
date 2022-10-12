@@ -1,4 +1,5 @@
-package cursoprogamacao;
+package cursoprogramacao;
+
 
 import java.util.Locale;
 import java.util.Scanner;
